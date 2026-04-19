@@ -1,0 +1,2 @@
+# Dota-2-Win-Prediction-Robust-Data-Cleaning-via-IQR-Feature-Engineering
+Proyek ini bertujuan untuk mengolah dataset mentah hasil pertandingan Dota 2 menjadi dataset yang siap digunakan untuk model Machine Learning. Fokus utama proyek ini adalah pada ketahanan (robustness) data melalui pembersihan outlier yang ketat dan transformasi fitur untuk meningkatkan akurasi prediksi kemenangan tim (Radiant vs Dire).
